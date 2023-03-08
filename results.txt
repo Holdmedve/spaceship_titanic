@@ -1,0 +1,7 @@
+Results
+
+First Iteration:
+- without cabin column
+- linear regression
+- train_test_split
+- precision mse 0.397
