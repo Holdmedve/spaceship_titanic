@@ -4,4 +4,14 @@ First Iteration:
 - without cabin column
 - linear regression
 - train_test_split
-- precision mse 0.397
+- training precision mse 0.397
+
+2nd:
+- without cabin column
+- dropping nan rows
+- submission precision 0.7 (barely any improvement)
+
+3rd:
+- fill na's with most frequent value
+- without cabin column
+- submission: 0.78
