@@ -15,3 +15,7 @@ First Iteration:
 - fill na's with most frequent value
 - without cabin column
 - submission: 0.78
+
+4th:
+- with cabin column split in 3 but only using 1st and 3rd column
+- submission: 0.79
