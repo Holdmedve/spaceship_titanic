@@ -4,3 +4,4 @@ matplotlib
 pandas
 ipykernel
 Jinja2
+tensorflow
